@@ -24,7 +24,7 @@ London brought a move into commercial product engineering. I worked on research-
 In Sydney, I joined Atlassian and became a Principal Engineer, working on Jira. During my final year in Australia, I lived and worked from a converted bus while travelling through New South Wales.
 
 <p align="center">
-  <img src="assets/bus.jpg" alt="Conceptual illustration of someone working at a laptop inside a converted bus among eucalyptus trees." width="640">
+  <img src="assets/bus.jpg" alt="Conceptual illustration of someone working at a laptop inside a converted bus among eucalyptus trees." width="760">
 </p>
 
 ## Building teams and systems
@@ -34,7 +34,7 @@ In the UAE, first in Dubai and then Abu Dhabi, my work grew to include engineeri
 That responsibility spans the people doing the work and the software they ship. Hiring and helping engineers grow sit alongside technical direction and delivery. I stay involved in the engineering while helping teams take on more ambitious work.
 
 <p align="center">
-  <img src="assets/engineering-studio.jpg" alt="Conceptual illustration of engineers discussing ideas and building software together. It does not depict an actual office or system." width="640">
+  <img src="assets/engineering-studio.jpg" alt="Conceptual illustration of engineers discussing ideas and building software together. It does not depict an actual office or system." width="760">
 </p>
 
 There is room for smaller experiments too. Physics and music meet in [Musical Planets](https://syymza.github.io/musical-planets/), a little instrument that turns orbits into melodies. I still enjoy making something simply to see how it works.
