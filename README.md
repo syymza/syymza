@@ -1,42 +1,63 @@
 # Hi, I'm Dani.
 
-**I lead engineering teams and keep building.** Today, that means financial technology used by major banks across MENA, and AI-assisted engineering systems.
+**I lead engineering teams and keep building.** Today, that means financial technology used by major banks across MENA, and AI-assisted engineering systems. My path here runs through six places I've called home, with a different kind of building in each chapter.
 
-## Research in the open
+## Milan · Learning how things work
 
-My path started in Milan, studying Computer Engineering at Politecnico di Milano. In Oulu, I moved into research on interactive public displays and multiuser interfaces. The software lived in shared spaces around the city, where several people could use the same display. Alongside the interfaces, I worked on real-time communication and mixed-reality projects that brought collaborative storytelling into shared physical spaces.
+My path started in Milan, studying Computer Engineering at Politecnico di Milano. I completed a BSc, with a thesis on tag-based file systems.
 
-<p align="center">
-  <img src="assets/shared-display.jpg" alt="Conceptual illustration of people using a public interactive display together in a city square." width="760">
-</p>
-
-<details>
-<summary>A question from the early research</summary>
-
-What changes when an interface moves from a personal tablet to a wall-sized public display? One project at the University of Oulu explored that transition, taking a 3D city interface from a private screen to a shared one.
-
-</details>
-
-## Products and a life abroad
-
-London brought a move into commercial product engineering. I worked on research-information software, then products in news and travel. At Trainline, that meant software for planning and booking a train journey, connecting what people saw on screen with the services behind it.
-
-In Sydney, I joined Atlassian and became a Principal Engineer, working on Jira. During my final year in Australia, I lived and worked from a converted bus while travelling through New South Wales.
+That university chapter came before a move to Finland, where I continued studying and began working on interfaces in public spaces. The work would soon involve people sharing a screen in the middle of a city, rather than each using a computer of their own.
 
 <p align="center">
-  <img src="assets/bus.jpg" alt="Conceptual illustration of someone working at a laptop inside a converted bus among eucalyptus trees." width="760">
+  <img src="assets/milan.jpg" alt="Conceptual illustration of students discussing ideas outside Politecnico di Milano. It does not depict an actual personal event." width="760">
 </p>
 
-## Building teams and systems
+## Oulu · Interfaces out in the world
 
-In the UAE, first in Dubai and then Abu Dhabi, my work grew to include engineering leadership in banking and wealth technology. I've built an engineering organisation from its first hire and led teams delivering production platforms.
+At the University of Oulu, I worked on interactive public displays and multiuser interfaces deployed around the city. One project took a 3D city interface from a personal tablet to a wall-sized display, moving from individual use to a shared experience.
 
-That responsibility spans the people doing the work and the software they ship. Hiring and helping engineers grow sit alongside technical direction and delivery. I stay involved in the engineering while helping teams take on more ambitious work.
+Alongside the interfaces, I worked on real-time communication and mixed-reality projects that brought collaborative storytelling into shared physical spaces.
 
 <p align="center">
-  <img src="assets/engineering-studio.jpg" alt="Conceptual illustration of engineers discussing ideas and building software together. It does not depict an actual office or system." width="760">
+  <img src="assets/oulu.jpg" alt="Conceptual illustration of people sharing an interactive public display beside Oulu's market hall and Toripolliisi statue." width="760">
 </p>
 
-There is room for smaller experiments too. Physics and music meet in [Musical Planets](https://syymza.github.io/musical-planets/), a little instrument that turns orbits into melodies. I still enjoy making something simply to see how it works.
+## London · Software for everyday life
+
+London brought a move into commercial product engineering. I worked on research-information software, then products in news and travel. The settings changed, but the work kept bringing together what people saw on screen and the services behind it.
+
+At Trainline, that meant software for planning and booking a train journey. My work across these years spanned interfaces, APIs and delivery automation, with hands-on engineering alongside technical leadership.
+
+<p align="center">
+  <img src="assets/london.jpg" alt="Conceptual illustration of everyday travellers by London's Millennium Bridge, with St Paul's across the Thames." width="760">
+</p>
+
+## Sydney · Building, with room to roam
+
+In Sydney, I joined Atlassian and became a Principal Engineer, working on Jira. That chapter centred on software people use to organise their own work, and on engineering within a large, established product.
+
+Life outside the role took an unusual shape too. During my final year in Australia, I lived and worked from a converted bus while travelling through New South Wales. A laptop, a much smaller home and a changing view became part of the same working life.
+
+<p align="center">
+  <img src="assets/sydney-bus.jpg" alt="Conceptual illustration of working from a converted Toyota Coaster among eucalyptus trees in New South Wales, during the Australia chapter." width="760">
+</p>
+
+## Dubai · Engineering through people
+
+Dubai brought a move into banking engineering leadership. My responsibilities grew to include technical direction, quality and helping engineers develop, alongside the systems themselves. I stayed close to the engineering while helping others take on more responsibility, a balance that continues in my work today.
+
+<p align="center">
+  <img src="assets/dubai.jpg" alt="Conceptual illustration of an engineering conversation in an Al Fahidi courtyard in Dubai. It does not depict an actual office or personal event." width="760">
+</p>
+
+## Abu Dhabi · Teams, systems and the next idea
+
+Abu Dhabi is home now. I've built an engineering organisation from its first hire and led teams delivering production platforms in banking and wealth technology. Hiring and helping engineers grow sit alongside technical direction and delivery. I still build, including AI-assisted engineering systems, while helping teams take on more ambitious work.
+
+There is room for smaller experiments too. Physics and music meet in [Musical Planets](https://syymza.github.io/musical-planets/), a little instrument that turns orbits into melodies. I still enjoy making something simply to see how it works, whether it becomes part of a larger system or stays a small thing to play with.
+
+<p align="center">
+  <img src="assets/abu-dhabi.jpg" alt="Conceptual illustration of a maker's desk, music and orbital sketches with Abu Dhabi's Corniche skyline outside. It does not depict an actual home or view." width="760">
+</p>
 
 [More of my story →](https://syymza.github.io/)
