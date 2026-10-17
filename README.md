@@ -4,9 +4,7 @@
 
 ## Milan · Learning how things work
 
-My path started in Milan, studying Computer Engineering at Politecnico di Milano. I completed a BSc, with a thesis on tag-based file systems.
-
-That university chapter came before a move to Finland, where I continued studying and began working on interfaces in public spaces. The work would soon involve people sharing a screen in the middle of a city, rather than each using a computer of their own.
+I grew up in Milan and studied Computer Engineering at Politecnico di Milano. I completed a BSc there, with a thesis on tag-based file systems.
 
 <p align="center">
   <img src="assets/milan.jpg" alt="Conceptual illustration of students discussing ideas outside Politecnico di Milano. It does not depict an actual personal event." width="760">
@@ -14,7 +12,7 @@ That university chapter came before a move to Finland, where I continued studyin
 
 ## Oulu · Interfaces out in the world
 
-At the University of Oulu, I worked on interactive public displays and multiuser interfaces deployed around the city. One project took a 3D city interface from a personal tablet to a wall-sized display, moving from individual use to a shared experience.
+I moved to Oulu, Finland, where I continued studying at the University of Oulu and worked on interactive public displays and multiuser interfaces deployed around the city. One project took a 3D city interface from a personal tablet to a wall-sized display, moving from individual use to a shared experience.
 
 Alongside the interfaces, I worked on real-time communication and mixed-reality projects that brought collaborative storytelling into shared physical spaces.
 
