@@ -52,7 +52,7 @@ Dubai brought a move into banking engineering leadership. My responsibilities gr
 
 Abu Dhabi is home now. I've built an engineering organisation from its first hire and led teams delivering production platforms in banking and wealth technology. Hiring and helping engineers grow sit alongside technical direction and delivery. I still build, including AI-assisted engineering systems, while helping teams take on more ambitious work.
 
-There is room for smaller experiments too. Physics and music meet in [Musical Planets](https://syymza.github.io/musical-planets/), a little instrument that turns orbits into melodies. I still enjoy making something simply to see how it works, whether it becomes part of a larger system or stays a small thing to play with.
+There is room for smaller experiments too. Physics and music meet in [Musical Planets](https://syymza.github.io/musical-planets/), a little instrument that turns orbits into melodies. In [A Second Shape](https://syymza.github.io/a-second-shape/), abstract sculptures reveal animals in their shadows as you turn them. I still enjoy making something simply to see how it works, whether it becomes part of a larger system or stays a small thing to play with.
 
 <p align="center">
   <img src="assets/abu-dhabi.jpg" alt="Conceptual illustration of a maker's desk, music and orbital sketches with Abu Dhabi's Corniche skyline outside. It does not depict an actual home or view." width="760">
