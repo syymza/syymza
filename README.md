@@ -34,10 +34,10 @@ At Trainline, that meant software for planning and booking a train journey. My w
 
 In Sydney, I joined Atlassian and became a Principal Engineer, working on Jira. That chapter centred on software people use to organise their own work, and on engineering within a large, established product.
 
-Life outside the role took an unusual shape too. During my final year in Australia, I lived and worked from a converted bus while travelling through New South Wales. A laptop, a much smaller home and a changing view became part of the same working life.
+Life outside the role took an unusual shape too. During my final year in Australia, I lived and worked from a converted bus called Falkor while travelling through New South Wales. A laptop, a much smaller home and a changing view became part of the same working life.
 
 <p align="center">
-  <img src="assets/sydney-bus.jpg" alt="Conceptual illustration of working from a converted Toyota Coaster among eucalyptus trees in New South Wales, during the Australia chapter." width="760">
+  <img src="assets/sydney-bus.jpg" alt="Conceptual illustration of working from Falkor, an ivory Toyota Coaster with its name across the windshield, among eucalyptus trees in New South Wales." width="760">
 </p>
 
 ## Dubai · Engineering through people
