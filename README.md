@@ -58,7 +58,7 @@ Abu Dhabi is home now. I've built an engineering organisation from its first hir
 
 ### Small experiments
 
-I still make small things just to see how they work. Physics, music and visual art give me different ways to follow that curiosity.
+I still make small things just to see how they work. Physics, music and visual art give me different ways to follow that curiosity. These experiments let me turn an idea into something I can play with, learn from, and keep refining. Sometimes that means exploring a mechanism; sometimes it’s simply trying to give a small creature a little personality.
 
 <table width="100%">
 <tr><td width="50%"><a href="https://syymza.github.io/musical-planets/"><img src="assets/projects/orbit.webp" width="100%" alt="Three small planets follow curved paths around a warm central star."><br><strong>Orbit</strong></a><br><sub>Orbits into music.</sub></td><td width="50%"><a href="https://syymza.github.io/a-second-shape/"><img src="assets/projects/shape.webp" width="100%" alt="A lit abstract sculpture casts the shadow of a sailing ship."><br><strong>A Second Shape</strong></a><br><sub>Light reveals shapes.</sub></td></tr>
