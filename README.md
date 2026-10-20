@@ -52,10 +52,17 @@ Dubai brought a move into banking engineering leadership. My responsibilities gr
 
 Abu Dhabi is home now. I've built an engineering organisation from its first hire and led teams delivering production platforms in banking and wealth technology. Hiring and helping engineers grow sit alongside technical direction and delivery. I still build, including AI-assisted engineering systems, while helping teams take on more ambitious work.
 
-I still make small things just to see how they work: [Orbit](https://syymza.github.io/musical-planets/), where orbits become melodies; [A Second Shape](https://syymza.github.io/a-second-shape/), where turning sculptures reveals animals in shadow; and [The Sleepy Tenant](https://syymza.github.io/the-sleepy-tenant/), a shy creature in a ceramic cup that reacts as you move its saucer. Small experiments in physics, perception and play.
-
 <p align="center">
   <img src="assets/abu-dhabi.jpg" alt="Conceptual illustration of a maker's desk, music and orbital sketches with Abu Dhabi's Corniche skyline outside. It does not depict an actual home or view." width="760">
 </p>
+
+### Small experiments
+
+I still make small things just to see how they work. Physics, music and visual art give me different ways to follow that curiosity.
+
+<table width="100%">
+<tr><td width="50%"><a href="https://syymza.github.io/musical-planets/"><img src="assets/projects/orbit.webp" width="100%" alt="Three small planets follow curved paths around a warm central star."><br><strong>Orbit</strong></a><br><sub>Orbits into music.</sub></td><td width="50%"><a href="https://syymza.github.io/a-second-shape/"><img src="assets/projects/shape.webp" width="100%" alt="A lit abstract sculpture casts the shadow of a sailing ship."><br><strong>A Second Shape</strong></a><br><sub>Light reveals shapes.</sub></td></tr>
+<tr><td width="50%"><a href="https://syymza.github.io/the-sleepy-tenant/"><img src="assets/projects/sleepy.webp" width="100%" alt="A sleepy creature peeks from a terracotta mug on a sage-green saucer."><br><strong>The Sleepy Tenant</strong></a><br><sub>A quiet creature.</sub></td><td width="50%"><a href="https://syymza.github.io/clockwork-acrobat/"><img src="assets/projects/clockwork.webp" width="100%" alt="A jointed wooden acrobat stands on a box with levers, gears and a hand crank."><br><strong>Clockwork Acrobat</strong></a><br><sub>A mechanical toy.</sub></td></tr>
+</table>
 
 [More of my story →](https://syymza.github.io/)
